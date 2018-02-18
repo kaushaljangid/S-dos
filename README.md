@@ -22,7 +22,7 @@ S-Dos Script
 	-a : 1 or 2 attack 
   
   example for 1 attack 
-  sdos.py -s 192.168.1.10 -p 80 -c 50000 -a 1
+  sdos.py -s 192.168.1.10 -p 8080  -a 1
   
    example for 2 attack 
-  sdos.py -s 192.168.1.10 -p 80 -c 50000 -a 2
+  sdos.py -s 192.168.1.10 -p 8080  -a 2
