@@ -7,13 +7,15 @@ Type of dos attack
 3 Man-In-The-Middle
 4 Flooding
 
-Dos attacks are very difficult to trace and stop. New hardware application are being manufactured for these type of attacks. Many dedicated server provides simply unplug the server that is being attacked until the attack has stopped. This algorithm is help to prevent this attack which is called the new cracking algorithm for prevention this attack . And the dos attack algorithm is help to shut down the server or network so it is help full for down the service of network or system which can be used for cyber war or revenge in real world.
+Dos attacks are very difficult to trace and stop. New hardware application are being manufactured for these type of attacks. Many dedicated server provides simply unplug the server that is being attacked until the attack has stopped. This algorithm is help to prevent this attack which is called the new cracking algorithm for prevention this attack . And the dos attack algorithm is help to shut down the server or network so it is help full for down the service of network or system which can be used for cyber war or revenge in real world.the advanced version of Dos attack is DDos attack.
+
+A distributed denial-of-service (DDoS) attack occurs when multiple systems flood the bandwidth or resources of a targeted system, usually one or more web servers. DDoS attack uses more than one unique IP address or machines, often from thousands of hosts infected with malware.A distributed denial of service attack typically involves more than around 3–5 nodes on different networks; fewer nodes may qualify as a DoS attack but is not a DDoS attack.
 
 How to Uses
 S-Dos Script
 	It is the end user's responsibility to obey all applicable laws.	It is just for server testing script. Your ip is visible. 
 	-c is given if system is same network . 
-  1 host attck 2 for network attack
+  1 host attack 2 for network attack
 	usage :sdos.py [-s] [-p] [-c] [-a]
 	-h : help
 	-s : server ip
